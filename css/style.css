@@ -1,0 +1,39 @@
+div {
+    background-color: palegreen;
+    text-align: center;
+    color: white;
+
+}
+h1 {
+    font-size: 50px;
+    color: orange;
+}
+form {
+}
+#check{
+    width: auto;
+
+}
+input {
+    width: 50%;
+    color: black;
+
+}
+label {
+    color: green;
+}
+.color {
+    color: green;
+}
+.font {
+    font-size: 20px;
+}
+a {
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+p {
+    color: red;
+}
